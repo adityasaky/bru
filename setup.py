@@ -5,9 +5,9 @@ with open("README.md", "r") as readme:
 
 setuptools.setup(
     name="bru",
-    version="0.0.1",
+    version="0.0.2",
     author="Aditya Saky",
-    author_email="aditya@saky.in",
+    author_email="asy278@nyu.edu",
     description="A package for all things Bru!",
     long_description=long_description,
     long_description_content_type="text/markdown",
